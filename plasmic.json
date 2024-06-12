@@ -537,7 +537,7 @@
           "projectId": "p813zMkDftvWK6P1GMVxsb",
           "renderModuleFilePath": "plasmic/dashboard/PlasmicMonthOverview.tsx",
           "importSpec": {
-            "modulePath": "../pages/o.tsx"
+            "modulePath": "../pages/index.tsx"
           },
           "cssFilePath": "plasmic/dashboard/PlasmicMonthOverview.module.css",
           "scheme": "blackbox",

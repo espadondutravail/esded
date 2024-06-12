@@ -156,7 +156,7 @@ function PlasmicPageLayout__RenderFunc(props: {
           { path: null, name: null },
           { path: null, name: null }
         ];
-        __composite["0"]["path"] = `/o`;
+        __composite["0"]["path"] = `/`;
         __composite["0"]["name"] = "360 Month overview";
         __composite["1"]["path"] = `/business-metrics`;
         __composite["1"]["name"] = "Business metrics";
